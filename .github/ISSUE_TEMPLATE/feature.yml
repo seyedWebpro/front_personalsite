@@ -1,0 +1,19 @@
+name: Feature request
+description: Propose a UI, i18n, or SEO change
+title: "[Feature] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What is missing today?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: How should it work for EN and FA?
+    validations:
+      required: true

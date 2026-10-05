@@ -1,0 +1,46 @@
+{
+  "site": {
+    "name": "Personal Site",
+    "shortName": "Personal Site",
+    "description": "Personal programming site — projects, articles, and contact."
+  },
+  "common": {
+    "serviceUnavailable": "A problem occurred while connecting to the server. Please try again. If the error persists, contact support.",
+    "httpStatus": {
+      "timeout": "A problem occurred while connecting to the server. Please try again. If the error persists, contact support.",
+      "network": "A problem occurred while connecting to the server. Please try again. If the error persists, contact support.",
+      "4xx": "The request was invalid. Please review your input and try again.",
+      "5xx": "A problem occurred while connecting to the server. Please try again. If the error persists, contact support."
+    }
+  },
+  "language": {
+    "en": "English",
+    "fa": "فارسی",
+    "select": "Select language",
+    "switchTo": "Switch language to {locale}"
+  },
+  "theme": {
+    "select": "Color theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "nav": {
+    "home": "Home",
+    "main": "Main"
+  },
+  "pages": {
+    "home": {
+      "title": "Home",
+      "description": "Personal programming site. Public pages and content will be added here.",
+      "heading": "Personal site",
+      "lead": "Frontend is ready."
+    }
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Page not found",
+    "description": "This page does not exist or has been moved.",
+    "home": "Back to home"
+  }
+}

@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Backend repository
+    url: https://github.com/seyedWebpro/api_backend_personalsite
+    about: API, SQL Server, and ASP.NET Core issues belong in the backend repo.
